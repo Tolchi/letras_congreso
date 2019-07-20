@@ -1,0 +1,101 @@
+\beginsong{Te exaltamos}[
+  by={Marcos Witt}]
+\beginverse
+/\[G]Te exaltamos sobre un \[C]trono de alabanza,
+\[G]Te exaltamos, oh Se\[Csus2]ñor
+\[G]Nuestras alabanzas \[C]subirán
+Delante \[G]de Tu trono, oh Se\[Csus2]ñor/\rep{2}
+\endverse
+\beginchorus
+O\[D]lor fra\[G]gante a \[D]Ti Se\[G]ñor,
+\[D]Honor y ala\[G]banza por \[D]siempre da\[G]ré
+\[C]Al que está sentado
+\[Am]Sobre el trono de mi \[D]Dios.
+\endchorus
+\beginverse*
+Te exaltmos
+sobre un trono de alabanza
+\endverse
+\norepchoruses
+\musicnote {sube un tono tambien para el coro.}
+\beginverse
+/\[A]Majestuosamente Re\[D]inas sin igual
+Tú \[A]eres poderoso Di\[Dsus2]os
+\[A]Te proclamaré, Te e\[D]xaltaré
+Tú eres el \[A]Rey
+Sobre mi co\[Dsus2]razón/\rep{2}
+\endverse
+\repchoruses
+\endsong
+
+\beginsong{Se exalta nuestro Dios}[
+  by={Marcos Witt},
+]
+\beginverse
+Se \[C]exalta a nuestro Dios
+\[C/E]Entre el \[F]júbi\[C]lo,
+\[F/G]Se e\[C]xalta a nuestro \[Am7]Dios
+Al so\[Dm]nar de las trom\[G]petas,
+\[G/G]Se e\[C]xalta a nuestro Dios
+\[C/E]Entre el \[F]júbi\[C]lo,
+Con \[E&maj9]júbilo gri\[F/G]tad a Él,
+\[Csus4]\[C] Con \[Dm]júbilo \[E&maj9]gritad a \[C]Él.
+\endverse
+\beginchorus
+Con \[Cmaj7+5/B]trom\[Am7]petas hay que cele\[D]brar
+y a\[Am7]plaudamos a nuestro Se\[D]ñor,
+Se \[C/G]exalta a nuestro Di\[F/G]os,
+se e\[Cmaj7/G]xalta a nuestro \[F/G]Dios,
+Se \[C/G]exalta a nuestro Di\[F/G]os, oh sí.
+\endchorus
+\musicnote {sube de tono a D para la segunda vez}
+\endsong
+
+\beginsong{Santo Es Tu Nombre}[
+  by={Marcos Witt},
+]
+\beginverse
+/\[E2/A&]Tú ha\[A]bitas en la ala\[B]banza de Tu pue\[E2]blo \[E2/A&]
+\[A]Coro\[B]nado con po\[E2]der \[E/A&]
+Ánge\[A2]les alrede\[B/A]dor,
+\[A&m7]Cantan con no\[C#m]sotros 
+Ala\[F#]banza \[F#9]y gloria a Ti \[B2]Se\[Bsus4]ñor \[E2/A&]/ \rep{2}
+\endverse
+\beginchorus
+\[A2]Santo es Tu \[E/A&]nombre oh \[C#m]Dios,
+\[F#m7]Santo eres \[Bsus]Tú \[B]
+\[A2]La creación de\[E/A&]clara Tu glo\[C#m]ria,
+\[F#m7]Santo e\[B]res \[E]Tú \[F#m7] \[E/A&] \rep{4}
+\endchorus
+\endsong
+
+\ifslides
+\beginsong{La palabra de hoy}
+\beginverse
+\justifycenter
+Testimonio:
+Pasaje: Romanos 10:9-10
+9 que si confesares con tu boca que Jesús es el Señor,\brk y creyeres en tu corazón que Dios le levantó de los muertos,\brk serás salvo.
+\endverse
+\beginverse
+10 Porque con el corazón se cree para justicia,\brk pero con la boca se confiesa para salvación.
+\endverse
+\endsong
+\fi
+
+\beginsong{Renuévame}[
+  by={Marcos Witt}]
+\beginverse
+Re\[D]nuéva\[G]me Se\[A]ñor Je\[Bm]sús 
+\[G] Ya no qui\[Em]ero ser i\[A A7]gual
+Re\[D]nuéva\[G]me Se\[A]ñor Je\[Bm]sús
+\[G]Pon en \[Em]mi Tu cora\[A A7]zón 
+\endverse
+\beginchorus
+Porque \[D]todo lo que \[C#m/D]hay dentro \[Bm]de \[F#m]mi
+\[G]Nece\[Em]sita ser cam\[G]biado Se\[A]ñor
+Porque \[D]todo lo que hay
+\[C#m/D]Dentro de \[Bm]mi cora\[F#m]zón
+\[Em]Nece\[A]sita más \[D]de Ti.
+\endchorus
+\endsong

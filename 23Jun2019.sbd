@@ -1,0 +1,148 @@
+\beginsong{Por mi murió}[
+  cr={Hillsong},
+  by={Hillsong},
+  ititle={La Sangre De Jesús Me Redimió}
+]
+\beginverse
+\[Bm]La sangre de Je\[G]sús me redi\[D]mió
+Me perdonó y \[A]libertad me \[Bm]dió
+Tu majestad \[G]está dentro de \[D]mi
+Por siempre creo en \[A]Ti
+Por siempre creo en \[Bm]Ti
+\endverse
+\norepchoruses
+\beginverse
+Me inundas \[G]con justucia con Tu a\[D]mor
+Tu gracia cau\[A]tivó mi cora\[Bm]zón
+Tu espiritu \[G]me guía a la ver\[D]dad
+Tu amor no fa\[A]llará
+Tu amor no falla\[G]rá
+\endverse
+\beginchorus
+\[D]Por amor Dios \[A]dió 
+\[Bm]su Hijo Único \[G]Jesús
+\[D]Por mi mu\[A]rió
+\[Bm]me dió esperanza y \[G]salvación
+\[D]En mi lu\[A]gar
+su \[Bm]vida entregó en \[G]la Cruz
+\[D]Me amó, me \[A]amó 
+\[Bm]aun sin me\[G]recerlo
+\endchorus
+\endsong
+
+\beginsong{Aquí estoy}[
+  by={Hillsong United},
+]
+\beginverse
+\[A]Tú eres el principio
+\[D]Tuya es la eternidad
+\[A/C#]Llamaste al munto a \[F#m]existecia
+\[D]Me acerco a Ti
+\endverse
+\norepchoruses
+\beginverse
+^Moriste por mis fracasos
+^Llevaste mi culpa en la Cruz
+^Cargaste en Tus ^hombros mi carga
+^Me acerco a \[A]Ti
+\endverse
+\beginchorus
+\[D]¿Qué puedo ha\[Bm]cer?
+¿qué puedo \[F#m]decir?
+\[D]Te ofrezco \[E]mi corazon
+com\[F#m]pletamente a \[D]Ti
+\endchorus
+\beginverse
+\[A]En Tu salvación \[D]camino
+Tu \[A]espíritu vive en \[D]mi
+\[A/C#]Declara en \[F#m]Tus prome\[D]sas
+Me acerco a \[A]Ti
+\endverse
+\repchoruses
+\beginverse*
+\[D]Aquí es\[A]toy
+Con \[E]manos al\[F#m]zadas vengo
+\[A]Pues \[E]Tú
+To\[F#m]do lo \[D]diste por \[E]mi
+\[A]Aquí estoy
+\[E]mi alma a \[F#m]Ti entrego
+\[D]Tuyo \[A]soy \[E]Señor 
+\endverse
+\endsong
+
+\beginsong{El nos ama}[
+  by={Jesus Culture, Seth Condrey},
+]
+\beginverse
+\[C]El es celoso de mi,
+\[Am]Su amor es un huracán
+Un árbol soy yo,
+\[G]Doblándose por el viento
+de Su grande\[F]za.
+\endverse
+\norepchoruses
+\beginverse
+\[C]Cuando de repente,
+\[Am]Mis aflicciones se van eclipsadas
+por Su presencia
+\[G]y al estar allí reconozco Tu amor,
+\[F]y cuán grande es Tu afecto por mi
+\endverse
+\beginchorus
+\[C]Oh, Cuán grande es Su a\[A]mor.
+Oh, cuán gran\[G]de,
+cuán grande es Su a\[F]mor
+\endchorus
+\beginchorus
+\[C]Sí, Él nos ama,
+Oh! Él nos a\[Am]ma, Dios Tú nos a\[G]mas
+Cuán grande a\[F]mor
+\endchorus
+\beginverse
+\[C]Te pertenecemos, Él es nuestro Rey
+\[Am]fuimos conquistados
+por Su gran poder
+\[G]si Su gracia es un mar,
+ me estoy hundien\[F]do
+\endverse
+\norepchoruses
+\beginverse
+\[C]el cielo y la tierra se unan un par
+\[Am]mi corazón salta de palpitar
+\[G]no tengo tiempo de reconsiderar
+cuando pienso \[F]que  Dios para un segundo
+\endverse
+\repchoruses
+\beginchorus
+\[C]Oh, Cuán grande es Su a\[A]mor.
+Oh, cuán gran\[G]de,
+cuán grande es Su a\[F]mor
+\endchorus
+\beginchorus
+\[C]Sí, Él nos ama,
+Oh! Él nos a\[Am]ma, Dios Tú nos a\[G]mas
+Cuán grande a\[F]mor
+\endchorus
+\beginverse*
+\[C]Nos ama, Oh! Él nos a\[Am]ma
+\[G]Dios Tú nos amas
+\[F]Cuán grande amor
+\endverse
+\endsong
+
+\ifslides
+\beginsong{La palabra de hoy}
+\beginverse
+\justifycenter
+Predica: Pastor José Gutierrez
+Pasaje: Mateo 13:31, 32 \brk 
+Otra parábola les refirió, diciendo: \brk 
+El reino de los cielos es semejante al grano de mostaza, que un hombre tomó y sembró en su campo;
+\endverse
+\beginverse
+el cual a la verdad es la más pequeña de todas las semillas;\brk
+pero cuando ha crecido, es la mayor de las hortalizas, y se hace árbol,\brk
+de tal manera que vienen las aves del cielo y hacen nidos en sus ramas.
+\endverse
+\endsong
+\fi
